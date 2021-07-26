@@ -1,1 +1,1 @@
-Python flask application set with github actions
+Python flask application 
